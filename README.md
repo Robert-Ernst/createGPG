@@ -2,6 +2,10 @@
 
 A tool to create a up-to-standard secure SSH and GPG key together
 
+## Algorithm
+
+Ed25519 with 4096bit strength
+
 ## Usage
 
 Syntax:\
